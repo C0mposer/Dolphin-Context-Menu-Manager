@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Dolphin Context Menu Manager
+Comment=Create and manage context-menu actions for Dolphin
+Exec=dolphin-context-menu-manager
+Icon=io.github.dolphincontextmenumanager
+Terminal=false
+Categories=Utility;Qt;KDE;
+Keywords=Dolphin;context menu;service menu;file manager;
